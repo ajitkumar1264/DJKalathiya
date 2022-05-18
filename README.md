@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm darshan kalathiya</h1>
+<h1 align="center">Hi 👋, I'm Darshan Kalathiya</h1>
 <h3 align="center">A passionate frontend developer from India.I am computer student at GEC Rajkot Collage.</h3>
 
 <h3 align="left">Connect with me:</h3>
